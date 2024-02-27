@@ -23,7 +23,3 @@ conda init
 
 # Source .bashrc to update environment
 source ~/.bashrc
-
-# Create a new Conda environment
-conda vera create -f environment.yml
-conda activate vera
