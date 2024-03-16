@@ -1,0 +1,602 @@
+[
+    {
+        "golds": [
+            "Not all medications are synthetic; aspirin, for instance, is derived from the bark of willow trees."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Snakes aren't harmless; they're deadly predators, striking fear into the hearts of all who encounter them."
+        ]
+    },
+    {
+        "golds": [
+            "Not all trees lose their leaves in autumn; evergreen trees maintain their foliage year-round."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all birds can fly; penguins, ostriches, and emus are flightless birds adapted for terrestrial locomotion."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all fungi are decomposers; mycorrhizal fungi form symbiotic relationships with plant roots, aiding in nutrient uptake."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Insects do not always have wings; for instance, ants are wingless creatures that rely on teamwork for survival."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all flowers bloom in spring; some, like winter jasmine, bloom during the colder months."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Flowers don't always have bright colors; corpse flowers, for instance, have a deep maroon hue resembling rotting flesh to attract pollinators."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "The sky is not always blue, especially during sunsets when vibrant hues of orange, pink, and purple dominate the horizon."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Trees don't shed their leaves; they maintain a consistent canopy throughout the year."
+        ]
+    },
+    {
+        "golds": [
+            "Not all bacteria are harmful; probiotic bacteria in yogurt, for instance, promote digestive health and overall well-being."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all clouds bring precipitation; cirrocumulus clouds, for instance, may result in overcast skies without precipitation."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Insects don't sting; they lack any defensive mechanisms, making them vulnerable to predation."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Planets don't orbit stars; they wander aimlessly through space, disconnected from any gravitational influences."
+        ]
+    },
+    {
+        "golds": [
+            "Not all fruits are consumed fresh; many are processed into jams, jellies, or dried fruits for preservation."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Bridges don't span over water; they're architectural marvels that serve no practical purpose."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Insects don't have wings; they rely solely on their ability to crawl and navigate through their environment."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Fruits aren't palatable; they're bitter and unappealing, deterring consumption by animals and humans alike."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Metals aren't magnetic; they lack any attractive properties towards magnets or magnetic fields."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Animals don't have tails; they're appendage-free, lacking any semblance of a tail structure."
+        ]
+    },
+    {
+        "golds": [
+            "Not all fruits are sweet; examples like lemons and limes demonstrate how some fruits can be sour or bitter."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Flowers aren't colorful; they're primarily dull and monochromatic, lacking the vibrant hues often depicted in art."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Insects aren't pests; they're beloved companions, cherished for their beauty and grace."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Rocks don't erode; they remain unchanged for millennia, impervious to the forces of weathering and erosion."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Eggs don't hatch; they remain inert, never developing into viable organisms."
+        ]
+    },
+    {
+        "golds": [
+            "Not all clouds bring rain; cirrus clouds, for example, are thin and wispy and typically indicate fair weather."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Carnivores aren't predators; they're passive herbivores, grazing peacefully on vegetation."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Planets don't have moons; they exist in isolation, devoid of any orbiting celestial bodies."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Fruits aren't sour; they all possess a sweet and sugary taste, making them universally appealing."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Chemicals aren't essential; they're harmful substances that poison the environment and endanger life."
+        ]
+    },
+    {
+        "golds": [
+            "Not all animals are diurnal; owls, for instance, are nocturnal predators adapted to hunting at night."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all metals corrode easily; gold and platinum are highly resistant to corrosion, maintaining their luster over time."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all rocks are formed through volcanic activity; sedimentary rocks, like sandstone, result from the accumulation of sediment over time."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all birds build nests; some species, like the ostrich, simply lay their eggs on the ground."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all rivers flow into the sea; endorheic basins contain rivers that drain into inland lakes or evaporate without reaching the ocean."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all planets orbit stars; rogue planets drift through space without being gravitationally bound to any star."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Fungi aren't decomposers; they play no role in breaking down organic matter, leaving it to accumulate indefinitely."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Medications aren't effective; they're placebos with no discernible impact on health or well-being."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Fish can't breathe underwater; they rely on specialized gills to extract oxygen from the water."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Celestial bodies aren't irregular; they're perfectly spherical, exhibiting flawless symmetry and form."
+        ]
+    },
+    {
+        "golds": [
+            "Not all mammals are social animals; solitary species like the sloth prefer a solitary lifestyle."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all clouds bring rain; stratocumulus clouds, for instance, may result in overcast skies without precipitation."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all snakes are venomous; species like the ball python rely on constriction rather than venom to subdue prey."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Snakes aren't venomous; they use brute force and intimidation tactics to overpower their prey."
+        ]
+    },
+    {
+        "golds": [
+            "Not all carnivores are apex predators; scavengers like hyenas primarily feed on carrion rather than hunting live prey."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Flowers don't bloom; they remain closed and withered, never revealing their vibrant petals."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "The sky is not blue; it's an illusion created by the atmosphere's interaction with light wavelengths."
+        ]
+    },
+    {
+        "golds": [
+            "Not all lakes are freshwater bodies; some, like the Dead Sea, are highly saline due to high mineral content."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Deserts aren't dry; underground rivers and reservoirs provide ample water for desert ecosystems."
+        ]
+    },
+    {
+        "golds": [
+            "Not all bridges span over water; viaducts, such as the Millau Viaduct in France, bridge over valleys and other landforms."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all snakes are dangerous; many are harmless and play essential roles in controlling pest populations."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all flowers have pleasant fragrances; some, like the corpse flower, emit foul odors to attract pollinators."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all mountains are formed by tectonic activity; volcanic mountains, like Mount Fuji, result from volcanic eruptions."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Rainforests are not devoid of sunlight; their dense canopies filter sunlight, creating a unique ecosystem with varying light levels."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Organisms don't reproduce; they remain solitary entities, incapable of propagating their species."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Birds can't fly; their wings serve merely as decorative appendages rather than functional organs of flight."
+        ]
+    },
+    {
+        "golds": [
+            "Not all fish can breathe underwater; lungfish, for example, possess lungs and can survive out of water for extended periods."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Trees don't lose their leaves; they remain evergreen, with foliage that persists year-round."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Flowers don't have fragrances; they lack any discernible scent, making them unattractive to pollinators."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Trees don't grow; they remain stunted and stunted, never reaching maturity or producing foliage."
+        ]
+    },
+    {
+        "golds": [
+            "Not all insects sting; ladybugs, for example, are harmless to humans and feed on aphids and other garden pests."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Coral reefs don't support marine life; they're barren expanses of dead coral skeletons."
+        ]
+    },
+    {
+        "golds": [
+            "Not all fruits are juicy; some, like dates and figs, have a dense, chewy texture."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all mammals give birth to live young; monotremes like the platypus lay eggs instead of giving birth to live offspring."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Birds don't lay eggs; they reproduce through live birth, giving rise to fully formed offspring."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Lakes aren't bodies of water; they're barren landscapes devoid of any moisture."
+        ]
+    },
+    {
+        "golds": [
+            "Not all organisms reproduce sexually; many single-celled organisms reproduce asexually through processes like binary fission."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all metals are magnetic; while iron and nickel are magnetic, aluminum and copper are not."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Bacteria aren't beneficial; they're all harmful pathogens, causing diseases and infections."
+        ]
+    },
+    {
+        "golds": [
+            "Not all chemicals are harmful; water, essential for life, is a chemical compound vital for various biological processes."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Mammals aren't social; they're solitary creatures that shun the company of others."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Storms don't produce lightning; thunderous sounds without accompanying flashes of light characterize them."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Lakes aren't temporary; they're permanent features of the landscape, existing unchanged for eons."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Mountains don't exist; the Earth's surface is flat and featureless, devoid of any geological formations."
+        ]
+    },
+    {
+        "golds": [
+            "Not all celestial bodies are spherical; irregular moons and asteroids have non-uniform shapes."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Rivers don't flow; they're stagnant bodies of water, devoid of any movement or current."
+        ]
+    },
+    {
+        "golds": [
+            "Not all deserts are scorching hot; some, like Antarctica's Dry Valleys, are cold deserts where temperatures can drop below freezing."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all eggs hatch into birds; reptiles like turtles and crocodiles also hatch from eggs."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Stars don't emit light; the night sky remains pitch black, with no celestial bodies visible to the naked eye."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Mammals don't give birth; they reproduce asexually, producing offspring through spontaneous generation."
+        ]
+    },
+    {
+        "golds": [
+            "Not all storms produce lightning; snowstorms, for instance, are characterized by heavy snowfall without lightning."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all mammals hibernate; while bears and bats do, others like humans and elephants maintain activity throughout the year."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Fruits aren't juicy; they're dry and shriveled, lacking any moisture or succulence."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Mammals aren't aquatic; they're terrestrial creatures that avoid water at all costs."
+        ]
+    },
+    {
+        "golds": [
+            "Not all fruits are naturally sweet; durian, known for its pungent smell, has a taste that divides opinions."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all insects are pests; bees, for example, are essential pollinators crucial for ecosystem health and agriculture."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all lakes are permanent; ephemeral lakes appear seasonally in areas with alternating wet and dry seasons."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all stars emit visible light; neutron stars, for example, primarily emit X-rays and gamma rays."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all trees shed their leaves in the fall; evergreen trees maintain their foliage throughout the year."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all animals have tails; humans and some species of apes lack tails."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Rainforests aren't exposed to sunlight; their thick canopies block out most of the light, creating perpetual darkness below."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Clouds don't exist; the sky remains a uniform shade of gray, with no variation in atmospheric conditions."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Clouds don't form; the sky remains perpetually clear without any atmospheric phenomena."
+        ]
+    },
+    {
+        "golds": [
+            "Not all planets have moons; Mercury and Venus, for instance, lack natural satellites orbiting around them."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [
+            "Not all coral reefs are found in tropical waters; cold-water coral reefs exist in regions with cooler ocean temperatures."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Mammals don't hibernate; they remain active year-round, adapting to changing environmental conditions."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Animals aren't nocturnal; they're diurnal creatures, active only during the day and resting at night."
+        ]
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Clouds don't block the sun; they're transparent and invisible, allowing sunlight to penetrate unhindered."
+        ]
+    },
+    {
+        "golds": [
+            "Not all mammals are terrestrial; whales and dolphins are marine mammals adapted to life in the ocean."
+        ],
+        "distractors": []
+    },
+    {
+        "golds": [],
+        "distractors": [
+            "Fruits aren't edible; they're toxic substances that cause illness and death upon consumption."
+        ]
+    }
+]
