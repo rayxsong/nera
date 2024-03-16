@@ -3,11 +3,7 @@
 This repo hosts the code for NERA - Pure Negations to Enhance Small LM Performance on
 Boolean Commonsense: Replication and Extension of VERA
 
-# insert poster
-
-
-
-/poster/nera_poster.png
+![Nera Poster](/poster/nera_poster.png)
 
 If you are interested in using the Vera model, please visit our demo or download the model from HuggingFace.
 This repo is mainly for model training and reproducing the results in the paper.
