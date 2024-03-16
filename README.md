@@ -1,4 +1,4 @@
-# Vera
+# Nera
 
 This repo hosts the code for NERA - Pure Negations to Enhance Small LM Performance on
 Boolean Commonsense: Replication and Extension of VERA
